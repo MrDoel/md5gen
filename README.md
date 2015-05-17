@@ -7,5 +7,7 @@
 
 usage : md5gen [PASSWORD]
 
+![](http://i60.tinypic.com/2my47kg.jpg)
+
 
 Malang Cyber Crew | Indonesian Coder
