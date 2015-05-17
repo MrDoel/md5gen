@@ -1,5 +1,8 @@
 # md5gen
 ## Author : Mr.Doel
+
+Compatible with Linux 32Bit
+
 ###How to install 
 1. git clone https://github.com/MrDoel/md5gen.git
 2. cd md5gen/
